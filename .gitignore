@@ -1,0 +1,10 @@
+**/git.properties
+.classpath
+.project
+.settings/
+.springBeans
+application.pid
+application.port
+file*.txt
+target/
+xml*.xml
